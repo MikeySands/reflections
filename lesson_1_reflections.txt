@@ -18,3 +18,6 @@ Because it means that changes are reversible.
 
 7 - Now that you have your workspace set up, what do you want to try using Git for?
 To conquer the world.
+
+8 - How is the staging area different from the working directory and the repository? What value do you think it offers?
+It gives you more time to decide whether something is complete.
